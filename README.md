@@ -1,13 +1,5 @@
 ### hey there 
-<a href="https://www.instagram.com/chaves547/">
-  <img align="left" alt="Alexandre Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.gg/zTrwtkpj">
-  <img align="left" alt="Alexandre Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.linkedin.com/in/alexandredchaves/">
-  <img align="left" alt="Alexandre LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+ 
 
 
 
@@ -18,10 +10,13 @@ hi, i'm [Alexandre Chaves](https://alexandredchaves.github.io/portfolioone/), a 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200" height="200" />
+ 
+
+ 
   
 - 💼 any freelance work? do reach, [email](mailto:xandechaves@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
+[![An image of @alexandrechaves's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alexandrechaves)](https://holopin.io/@alexandrechaves)
 
 **languages and tools:**  
 
