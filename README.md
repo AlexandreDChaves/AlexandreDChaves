@@ -3,10 +3,13 @@
 ## 🖖 Olá, meu nome é <strong>Alexandre Chaves!</strong>
 <h3> Sou um apaixonado por programação e tecnologia!</h3>
 
-- 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Formação em andamento **Back-End** pelo <a href="https://escolakoru.com.br">Escola Koru</a>.
-- 👨‍💻 Aperfeiçoando meus conhecimentos na <a href="https://www.cod3r.com.br/">Cod3r</a>.
+Com mais de 10 anos de experiência como Analista de Suporte, desenvolvi habilidades essenciais para um dev: resolução de problemas complexos, visão sistêmica e foco no usuário.
 
+Atualmente, me dedico diariamente aos estudos de Java, lógica de programação e estruturas de dados. Busco minha primeira oportunidade como Dev Júnior para unir minha experiência técnica à minha nova paixão por desenvolvimento.
+
+    🚀 Em estudo: Java, Spring Framework, SQL e Git.
+
+    🎯 Foco: construir bases sólidas para me tornar um desenvolvedor de software de alto nível.
 
 ## 🚀 Minhas Skills
 
