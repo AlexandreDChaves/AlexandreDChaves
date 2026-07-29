@@ -11,7 +11,7 @@ Atualmente, me dedico diariamente aos estudos de Java, lógica de programação 
 
     🎯 Foco: construir bases sólidas para me tornar um desenvolvedor de software de alto nível.
 
-## 🚀 Em Estudo (Transição para Backend Java)
+## 🚀 Em Estudo
 
 <p align="left">
   <a href="https://skillicons.dev">
