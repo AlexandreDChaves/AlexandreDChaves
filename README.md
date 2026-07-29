@@ -11,19 +11,19 @@ Atualmente, me dedico diariamente aos estudos de Java, lógica de programação 
 
     🎯 Foco: construir bases sólidas para me tornar um desenvolvedor de software de alto nível.
 
-## 🚀 Minhas Skills
+## 🚀 Em Estudo (Transição para Backend Java)
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,java,python," />
+    <img src="https://skillicons.dev/icons?i=java,idea,postgresql,mysql,git" />
   </a>
 </p>
 
-## 🛠️Ferramentas de desenvolvimento
+## 💼 Experiência Profissional
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,docker,linux,git," />
+    <img src="https://skillicons.dev/icons?i=linux,azure,aws" />
   </a>
 </p>
 
