@@ -5,7 +5,7 @@
 
 Com mais de 10 anos de experiência como Analista de Suporte, desenvolvi habilidades essenciais para um dev: resolução de problemas complexos, visão sistêmica e foco no usuário.
 
-Atualmente, me dedico diariamente aos estudos de Java, lógica de programação e estruturas de dados. Busco minha primeira oportunidade como Dev Júnior para unir minha experiência técnica à minha nova paixão por desenvolvimento.
+Atualmente, me dedico diariamente aos estudos de Java, lógica de programação e estruturas de dados. Busco minha primeira oportunidade como Dev  para unir minha experiência técnica à minha nova paixão por desenvolvimento.
 
     🚀 Em estudo: Java, Spring Framework, SQL e Git.
 
