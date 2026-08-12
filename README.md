@@ -13,22 +13,6 @@ Atualmente, me dedico diariamente aos estudos de Java, lógica de programação 
 
 ## 🚀 Em Estudo (Transição para Backend Java)
 
-<!-- Badge do CCNA centralizado -->
-## 🚀 Em Estudo (Transição para Backend Java)
-
-<!-- Badge do CCNA -->
-<p align="center">
-  <a href="https://www.credly.com/badges/b8aa85b7-8133-4be6-a052-0cc7456bc73c" target="_blank">
-    <img src="images/CCNA.png" alt="CCNA: Introduction to Networks" width="120">
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,idea,postgresql,mysql,git" />
-  </a>
-</p>
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,idea,postgresql,mysql,git" />
